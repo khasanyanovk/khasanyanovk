@@ -1,4 +1,40 @@
-## Hi there 👋
+# Kirill Khasanyanov — C++ Developer
+
+🔹 Passionate about high‑load systems, distributed computing, embedded, compilers, databases and networking.  
+🔹 Write modern C++ (11/14/17/20) with Boost, Qt, MPI, OpenMP, TBB.  
+🔹 Also work with Python, C#, SQL, Docker, CI/CD, and love clean code.
+
+🎓 Student at Lobachevsky University (Software Engineering, GPA 4.5)  
+🧮 Teach math & programming in spare time  
+🗣️ English — B2  
+
+---
+
+### 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Boost](https://img.shields.io/badge/-Boost-005571?style=flat-square&logo=boost)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt)
+![MPI](https://img.shields.io/badge/-MPI-005C97?style=flat-square)
+![OpenMP](https://img.shields.io/badge/-OpenMP-000000?style=flat-square)
+![TBB](https://img.shields.io/badge/-TBB-0071C5?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=github-actions)
+
+---
+
+### 📫 Let's connect
+[![Email](https://img.shields.io/badge/-hasanyanovk@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:hasanyanovk@gmail.com)
+[![Telegram](https://img.shields.io/badge/-@swimker-2CA5E0?style=flat-square&logo=telegram)](https://t.me/swimker)
+[![VK](https://img.shields.io/badge/-@swimker-4680C2?style=flat-square&logo=vk)](https://vk.com/swimker)
+[![GitHub](https://img.shields.io/badge/-khasanyanovk-181717?style=flat-square&logo=github)](https://github.com/khasanyanovk)
+
+---
+
+⭐ From [khasanyanovk](https://github.com/khasanyanovk)
 
 <!--
 **khasanyanovk/khasanyanovk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
