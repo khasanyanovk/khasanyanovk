@@ -11,19 +11,14 @@
 ---
 
 ### 🛠️ Tech Stack
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Boost](https://img.shields.io/badge/-Boost-005571?style=flat-square&logo=boost)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt)
-![MPI](https://img.shields.io/badge/-MPI-005C97?style=flat-square)
-![OpenMP](https://img.shields.io/badge/-OpenMP-000000?style=flat-square)
-![TBB](https://img.shields.io/badge/-TBB-0071C5?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=github-actions)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cmake,qt,python,cs,postgres,sqlite,mysql,docker,git,githubactions&theme=dark&perline=20)](https://skillicons.dev)
 
+**Also experienced with:** 
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=github-actions)
+![Boost](https://img.shields.io/badge/-Boost-005571?style=flat-square&logo=boost)
+![MPI](https://img.shields.io/badge/-MPI-005C97?style=flat-square)
+![TBB](https://img.shields.io/badge/-TBB-0071C5?style=flat-square)
+![OpenMP](https://img.shields.io/badge/-OpenMP-000000?style=flat-square)
 ---
 
 ### 📫 Let's connect
@@ -36,8 +31,17 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khasanyanovk&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khasanyanovk&layout=compact&theme=dark)
+<table border="0" style="border: none;">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=khasanyanovk&theme=dark" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khasanyanovk&theme=dark" alt="Profile Details" />
+    </td>
+  </tr>
+</table>
+
 
 <!--
 **khasanyanovk/khasanyanovk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
