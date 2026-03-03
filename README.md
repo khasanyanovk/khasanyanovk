@@ -1,6 +1,6 @@
 # Kirill Khasanyanov — C++ Developer
 
-🔹 Passionate about high‑load systems, distributed computing, embedded, compilers, databases and networking.  
+🔹 Passionate about high‑load systems, backend-development, distributed computing, embedded, compilers, databases and networking.  
 🔹 Write modern C++ (11/14/17/20) with Boost, Qt, MPI, OpenMP, TBB.  
 🔹 Also work with Python, C#, SQL, Docker, CI/CD, and love clean code.
 
