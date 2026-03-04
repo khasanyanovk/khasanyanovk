@@ -2,7 +2,7 @@
 
 🔹 Passionate about high‑load systems, backend-development, distributed computing, embedded, compilers, databases and networking.  
 🔹 Write modern C++ (11/14/17/20) with Boost, Qt, MPI, OpenMP, TBB.  
-🔹 Also work with Python, C#, SQL, Docker, CI/CD, and love clean code.
+🔹 Also work with Python, C#, SQL, Docker, CI/CD, and love clean architecture code.
 
 🎓 Student at Lobachevsky University (Software Engineering, GPA 4.5)  
 🧮 Teach math & programming in spare time  
